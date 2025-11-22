@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://YashodMahela.github.io/portfolio",
+  "homepage": "http://portfolio.yashod.jayathilaka",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
